@@ -154,7 +154,12 @@
 .card img{
   height: 250px;
 }
-
+.card_all{
+  padding-top: 120px;
+}
+.card_item{
+  padding: 25px 0px;
+}
 
 
 
