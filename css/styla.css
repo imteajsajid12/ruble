@@ -143,13 +143,17 @@
 
 
 /*about us*/
-
+.about_us{
+  padding-top: 100px;
+}
 .about_us_text{
   padding-left: 40px;
 }
 
-
-
+/*card*/
+.card img{
+  height: 250px;
+}
 
 
 
